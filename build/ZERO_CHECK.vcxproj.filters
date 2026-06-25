@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\agnaw\OneDrive\Desktop\Sem2\Computer vision\kuwahara_filter\build\CMakeFiles\657f61f575c81fac045f02f9bc4295bb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ED7FF8E9-CD01-366C-B910-2EAF6FF64E69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

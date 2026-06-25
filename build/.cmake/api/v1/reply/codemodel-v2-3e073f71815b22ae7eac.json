@@ -1,0 +1,876 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_calib3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_calib3d-Debug-2586be416ab6bb8c1f6a.json",
+					"name" : "opencv_calib3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_core-Debug-5a8ca16561479db5417f.json",
+					"name" : "opencv_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_dnn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_dnn-Debug-8fd79eeb21107b71616e.json",
+					"name" : "opencv_dnn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_features2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_features2d-Debug-289114047f8099a9d13a.json",
+					"name" : "opencv_features2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_flann::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_flann-Debug-d74a8d7ced01040a3ea1.json",
+					"name" : "opencv_flann",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_gapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_gapi-Debug-8118da72dba843028de8.json",
+					"name" : "opencv_gapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_highgui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_highgui-Debug-90aaa4e7b970bbd9ea77.json",
+					"name" : "opencv_highgui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgcodecs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgcodecs-Debug-35a388f9339c38261014.json",
+					"name" : "opencv_imgcodecs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgproc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgproc-Debug-f4305187458741735f69.json",
+					"name" : "opencv_imgproc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_ml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_ml-Debug-a2bd78129aa428e8f8c2.json",
+					"name" : "opencv_ml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_objdetect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_objdetect-Debug-70ba034edefd24948d3c.json",
+					"name" : "opencv_objdetect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_photo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_photo-Debug-3ccecf14f5f87eada246.json",
+					"name" : "opencv_photo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_stitching::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_stitching-Debug-20f373f569fccdcade4a.json",
+					"name" : "opencv_stitching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_video::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_video-Debug-fdfcb6c5c6ceebfe91da.json",
+					"name" : "opencv_video",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_videoio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_videoio-Debug-aaf5004d17ddc1611c5b.json",
+					"name" : "opencv_videoio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_world::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_world-Debug-8d2af8fad93418a7d623.json",
+					"name" : "opencv_world",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f040eec181a89de70dbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kuwahara_filter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-4191e951bdcc0f8b611f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-d4c9660351e4bce4b342.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kuwahara_filter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kuwahara_filter-Debug-b27e701ed70ba919e6a7.json",
+					"name" : "kuwahara_filter",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_calib3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_calib3d-Release-f6abbe381e2d74ceddb4.json",
+					"name" : "opencv_calib3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_core-Release-75d378e229bbee7b8c88.json",
+					"name" : "opencv_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_dnn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_dnn-Release-cb15040e426669ca7d41.json",
+					"name" : "opencv_dnn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_features2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_features2d-Release-144c3a0908f885a373b5.json",
+					"name" : "opencv_features2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_flann::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_flann-Release-1140c7b9e2b8b962e585.json",
+					"name" : "opencv_flann",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_gapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_gapi-Release-0637b031c46297e5d539.json",
+					"name" : "opencv_gapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_highgui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_highgui-Release-1bb0b7ef8955d8df468e.json",
+					"name" : "opencv_highgui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgcodecs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgcodecs-Release-0d3a244534e3005bf528.json",
+					"name" : "opencv_imgcodecs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgproc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgproc-Release-6ea2edd8c99082a811c5.json",
+					"name" : "opencv_imgproc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_ml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_ml-Release-fae752779557ac529d6c.json",
+					"name" : "opencv_ml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_objdetect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_objdetect-Release-132afea86b6f469e5b4b.json",
+					"name" : "opencv_objdetect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_photo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_photo-Release-0c1aeaa75a752561e6a0.json",
+					"name" : "opencv_photo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_stitching::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_stitching-Release-735652a99524626b1c02.json",
+					"name" : "opencv_stitching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_video::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_video-Release-6931f92f0d603b90c704.json",
+					"name" : "opencv_video",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_videoio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_videoio-Release-d6ff3ac9469ae656d93d.json",
+					"name" : "opencv_videoio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_world::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_world-Release-41dab1b1e510253eda65.json",
+					"name" : "opencv_world",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f040eec181a89de70dbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kuwahara_filter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-4191e951bdcc0f8b611f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-d4c9660351e4bce4b342.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kuwahara_filter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kuwahara_filter-Release-769b180f29a4bcc3ea26.json",
+					"name" : "kuwahara_filter",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_calib3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_calib3d-MinSizeRel-f6abbe381e2d74ceddb4.json",
+					"name" : "opencv_calib3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_core-MinSizeRel-75d378e229bbee7b8c88.json",
+					"name" : "opencv_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_dnn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_dnn-MinSizeRel-cb15040e426669ca7d41.json",
+					"name" : "opencv_dnn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_features2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_features2d-MinSizeRel-144c3a0908f885a373b5.json",
+					"name" : "opencv_features2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_flann::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_flann-MinSizeRel-1140c7b9e2b8b962e585.json",
+					"name" : "opencv_flann",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_gapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_gapi-MinSizeRel-0637b031c46297e5d539.json",
+					"name" : "opencv_gapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_highgui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_highgui-MinSizeRel-1bb0b7ef8955d8df468e.json",
+					"name" : "opencv_highgui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgcodecs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgcodecs-MinSizeRel-0d3a244534e3005bf528.json",
+					"name" : "opencv_imgcodecs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgproc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgproc-MinSizeRel-6ea2edd8c99082a811c5.json",
+					"name" : "opencv_imgproc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_ml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_ml-MinSizeRel-fae752779557ac529d6c.json",
+					"name" : "opencv_ml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_objdetect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_objdetect-MinSizeRel-132afea86b6f469e5b4b.json",
+					"name" : "opencv_objdetect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_photo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_photo-MinSizeRel-0c1aeaa75a752561e6a0.json",
+					"name" : "opencv_photo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_stitching::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_stitching-MinSizeRel-735652a99524626b1c02.json",
+					"name" : "opencv_stitching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_video::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_video-MinSizeRel-6931f92f0d603b90c704.json",
+					"name" : "opencv_video",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_videoio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_videoio-MinSizeRel-d6ff3ac9469ae656d93d.json",
+					"name" : "opencv_videoio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_world::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_world-MinSizeRel-41dab1b1e510253eda65.json",
+					"name" : "opencv_world",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-f040eec181a89de70dbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kuwahara_filter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-4191e951bdcc0f8b611f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-d4c9660351e4bce4b342.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kuwahara_filter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kuwahara_filter-MinSizeRel-8d6f8390a59eb3db089a.json",
+					"name" : "kuwahara_filter",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_calib3d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_calib3d-RelWithDebInfo-f6abbe381e2d74ceddb4.json",
+					"name" : "opencv_calib3d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_core-RelWithDebInfo-75d378e229bbee7b8c88.json",
+					"name" : "opencv_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_dnn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_dnn-RelWithDebInfo-cb15040e426669ca7d41.json",
+					"name" : "opencv_dnn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_features2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_features2d-RelWithDebInfo-144c3a0908f885a373b5.json",
+					"name" : "opencv_features2d",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_flann::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_flann-RelWithDebInfo-1140c7b9e2b8b962e585.json",
+					"name" : "opencv_flann",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_gapi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_gapi-RelWithDebInfo-0637b031c46297e5d539.json",
+					"name" : "opencv_gapi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_highgui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_highgui-RelWithDebInfo-1bb0b7ef8955d8df468e.json",
+					"name" : "opencv_highgui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgcodecs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgcodecs-RelWithDebInfo-0d3a244534e3005bf528.json",
+					"name" : "opencv_imgcodecs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_imgproc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_imgproc-RelWithDebInfo-6ea2edd8c99082a811c5.json",
+					"name" : "opencv_imgproc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_ml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_ml-RelWithDebInfo-fae752779557ac529d6c.json",
+					"name" : "opencv_ml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_objdetect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_objdetect-RelWithDebInfo-132afea86b6f469e5b4b.json",
+					"name" : "opencv_objdetect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_photo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_photo-RelWithDebInfo-0c1aeaa75a752561e6a0.json",
+					"name" : "opencv_photo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_stitching::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_stitching-RelWithDebInfo-735652a99524626b1c02.json",
+					"name" : "opencv_stitching",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_video::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_video-RelWithDebInfo-6931f92f0d603b90c704.json",
+					"name" : "opencv_video",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_videoio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_videoio-RelWithDebInfo-d6ff3ac9469ae656d93d.json",
+					"name" : "opencv_videoio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv_world::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv_world-RelWithDebInfo-41dab1b1e510253eda65.json",
+					"name" : "opencv_world",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-f040eec181a89de70dbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kuwahara_filter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-4191e951bdcc0f8b611f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-d4c9660351e4bce4b342.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kuwahara_filter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kuwahara_filter-RelWithDebInfo-48608a3383a748f8562b.json",
+					"name" : "kuwahara_filter",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/kuwahara_filter/build",
+		"source" : "C:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/kuwahara_filter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	}
+}

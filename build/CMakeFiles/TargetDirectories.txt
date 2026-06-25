@@ -1,0 +1,3 @@
+C:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/kuwahara_filter/build/CMakeFiles/kuwahara_filter.dir
+C:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/kuwahara_filter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/agnaw/OneDrive/Desktop/Sem2/Computer vision/kuwahara_filter/build/CMakeFiles/ZERO_CHECK.dir
